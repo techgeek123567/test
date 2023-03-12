@@ -1,4 +1,4 @@
-project-id     = "terraform"
+project-id     = "test"
 region         = "us-central1"
 region-zone    = "us-central1-a"
 web-server     = "gcp-web-server"
